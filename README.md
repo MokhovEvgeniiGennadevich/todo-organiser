@@ -8,6 +8,7 @@
 * STREAM: Стрим
 * * STREAM: Установить DonatePay
 * * STREAM: Отредактировать описание канала на Twitch
+* * STREAM: Dota 2
 * DEV: Установить Virtual Box 
 * * DEV: Установить Debian 11
 * DEV: Установить Python 3
