@@ -3,11 +3,16 @@
 - [ ] MINING: замена блока питания на R006 
 - [ ] MINING: замена блока питания на R001
 - [ ] MINING: коротит материнка/cpu/ram на R010 ?
+- [ ] JOB: Сайт-портфолио на Laravel 9. "Программист в Калининграде"
+- - [ ] JOB: Верстать/обучаться TailwindCSS
 
 ### 2022-08-31
 
+- [x] STREAM: Стрим
+- [x] STREAM: Dota 2
 - [ ] STREAM: C 19:00 - 20:00 до 23:00 Dota 2
 - [ ] STREAM: Интегрировать DonatePay в OBS
+- - [ ] STREAM: DonatePay разобраться в акции https://donatepay.ru/multipliers
 - [ ] STREAM: Настроить рестриминг на все сервисы (YouTube, WASD, GoodGame etc.)
 - [ ] STREAM: Протестировать Twitch Raids
 - [ ] STREAM: Интегрировать чат WASD
@@ -17,8 +22,9 @@
 - [x] STREAM: Разобраться с DPI настройками мыши и залить это в Гайд
 - [ ] JOB: Сайт-портфолио на Laravel 9. "Программист в Калининграде"
 - - [x] JOB: Подключить TailwindCSS
-- - [ ] JOB: Разработка Mobile First
+- - [x] JOB: Разработка Mobile First
 - - [x] JOB: Переключение Light/Dark
+- - [x] JOB: Иконки JS, PHP, CSS etc. React, Angular, VUEJS etc.
 - [ ] MINING: замена FAN (кулера) на P0RE002
 - [ ] MINING: замена FAN (кулера) на P0RK002
 - [ ] MINING: замена FAN (кулера) на P0RT001
@@ -29,7 +35,7 @@
 - [ ] PROJECT 001: Ответить Старостиной Ольге (Email toxic_cat)
 - [ ] HEALTH: 09:00 Принять таблетки Ноопепт + Танакан
 - [x] HEALTH: 14:00 Принять таблетки Ноопепт + Танакан
-- [ ] HEALTH: 19:00 Принять таблетки Танакан
+- [x] HEALTH: 19:00 Принять таблетки Танакан
 - [x] FAMILY: Поиграть с Матвеем
 
 ### 2022-08-30
