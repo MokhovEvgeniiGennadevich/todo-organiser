@@ -7,6 +7,9 @@
 ### 2022-08-31
 
 - [ ] STREAM: Интегрировать DonatePay в OBS
+- [ ] STREAM: Настроить рестриминг на все сервисы (YouTube, WASD, GoodGame etc.)
+- [ ] STREAM: Протестировать Twitch Raids
+- [ ] STREAM: Интегрировать чат WASD
 - [ ] JOB: Сайт-портфолио на Laravel 9. "Программист в Калининграде"
 - [ ] MINING: замена FAN (кулера) на P0RE002
 - [ ] MINING: замена FAN (кулера) на P0RK002
@@ -19,6 +22,8 @@
 ### 2022-08-30
 
 - [x] STREAM: Стрим
+- [x] STREAM: Порубал SUPER PEOPLE FINAL BETA
+- [x] STREAM: Donate 1 111 RUB "Аноним" :moneybag:
 - [x] JOB: 12:00 собеседование по работе 
 - [ ] PROJECT 001: Ответить Старостиной Ольге (Email toxic_cat)
 - [x] REST: Поспал днём
