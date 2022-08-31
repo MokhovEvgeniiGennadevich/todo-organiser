@@ -18,6 +18,7 @@
 - [ ] PROJECT 001: Ответить рекламодателю №2 Vladislav Gerasimov (Telegram Main)
 - [ ] PROJECT 001: Ответить рекламодателю №3 Максим Разумков (Telegram Main)
 - [ ] PROJECT 001: Ответить рекламодателю №4 Евгений Софронов (Telegram Main)
+- [ ] PROJECT 001: Ответить Старостиной Ольге (Email toxic_cat)
 
 ### 2022-08-30
 
