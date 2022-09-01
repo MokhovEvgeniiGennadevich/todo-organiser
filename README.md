@@ -1,4 +1,4 @@
-## Предыдущие месяцы
+## Предыдущие годы и месяцы
 
 ### 2022 год
 
@@ -9,24 +9,23 @@
 - [ ] MINING: замена блока питания на R006 
 - [ ] MINING: замена блока питания на R001
 - [ ] MINING: коротит материнка/cpu/ram на R010 ?
+- [ ] STREAM: Найти альтернативу Restream.IO, потому что они скам (кидалы) и дерьмо
+- [ ] STREAM: Подключить и настроить вторую камеру (второй ракурс)
 
 ### 2022-09-01
 
 - [x] STREAM: Стрим
+- [ ] STREAM: Скачать стрим 2022-08-31
+- - [ ] STREAM: Установить программу для работы с видео
+- - [ ] STREAM: Порезать стрим на видео
 - [ ] STREAM: Интегрировать DonatePay в OBS
 - - [ ] STREAM: DonatePay разобраться в акции https://donatepay.ru/multipliers
 - [ ] STREAM: Настроить рестриминг на все сервисы (YouTube, WASD, GoodGame etc.)
 - [ ] STREAM: Протестировать Twitch Raids
 - [ ] STREAM: Интегрировать чат WASD
 - [ ] STREAM: Выложить расписание стримов на Twitch 
-- [ ] STREAM: Подключить и настроить вторую камеру (второй ракурс)
-- [ ] STREAM: Найти альтернативу Restream.IO, потому что они скам (кидалы) и дерьмо
-- [x] STREAM: Разобраться с DPI настройками мыши и залить это в Гайд
 - [ ] JOB: Сайт-портфолио на Laravel 9. "Программист в Калининграде"
-- - [x] JOB: Подключить TailwindCSS
-- - [x] JOB: Разработка Mobile First
-- - [x] JOB: Переключение Light/Dark
-- - [x] JOB: Иконки JS, PHP, CSS etc. React, Angular, VUEJS etc.
+- - [ ] JOB: Иконки JS, PHP, CSS etc. React, Angular, VUEJS etc.
 - [ ] MINING: замена FAN (кулера) на P0RE002
 - [ ] MINING: замена FAN (кулера) на P0RK002
 - [ ] MINING: замена FAN (кулера) на P0RT001
