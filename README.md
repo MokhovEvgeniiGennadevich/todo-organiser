@@ -1,8 +1,8 @@
 ## Предыдущие месяцы
 
-### 2022
+### 2022 год
 
-[08]()
+[08](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-08.md)
 
 ### Долгие дела 
 
