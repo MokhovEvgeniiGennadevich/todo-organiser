@@ -4,4 +4,4 @@
 
 [08](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-08.md)
 [09](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-09.md)
-[10](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-09.md)
+[10](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-10.md)
