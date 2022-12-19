@@ -51,6 +51,7 @@
 - - - [ ] RUST -> перенести все файлы с диска D в VirtualBox
 - - - [ ] PHP -> перенести все файлы с диска D в VirtualBox
 - - - [x] Virtual Box PostgreSQL
+- - - [x] Virtual Box rust - увеличить размер диска
 - - [ ] GIT
 - - - [ ] Создать новый аккаунт GitHub
 - - [ ] HeadHunter
@@ -68,7 +69,10 @@
 - - - [ ] API V1
 - - - [ ] API V1 Login Check
 - - - [ ] Простейший сайт с SSR на Actix-Web
-- - - - [ ] Подключаем работу с базой данных
+- - - - [ ] Создаём пулл подключений к PostgreSQL
+- - - - [ ] Пробрасываем пулл подключений в класс
+- - - - [ ] Делаем чистый SQLx запрос
+- - - - [ ] [AES-256-GCM Encrypt/Decrypt](https://github.com/actix/examples/tree/master/middleware/middleware-encrypted-payloads) подключить как MiddleWare
 - - [ ] GoLang:
 - - [ ] Python:
 - - - [ ] Функции
