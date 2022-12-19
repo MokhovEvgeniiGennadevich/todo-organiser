@@ -48,7 +48,7 @@
 - - - [x] Virtual Box Whonix Workstation / Gateway по гайду Светова (настроили TOR)
 - - - [x] Virtual Box Thunderbird вместе с XFCE4
 - - - [ ] Virtual Box перенести базу с Thunderbird Portable -> Thunderbird XFCE4
-- - - [ ] RUST -> перенести все файлы с диска D в VirtualBox
+- - - [x] RUST -> перенести все файлы с диска D в VirtualBox
 - - - [ ] PHP -> перенести все файлы с диска D в VirtualBox
 - - - [x] Virtual Box PostgreSQL
 - - - [x] Virtual Box rust - увеличить размер диска
