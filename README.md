@@ -9,6 +9,87 @@
 [10](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-10.md)
 [11](https://github.com/MokhovEvgeniiGennadevich/todo-organiser/blob/main/2022/2022-11.md)
 
+### 2022-12-20
+
+- [x] Стрим: Подрубить
+- - [ ] Языки: English
+- - [ ] Программирование: Полный цикл PHP, Rust, GoLang, Python, JavaScript
+- [ ] Квартира
+- - [ ] Пропылесосить полы в коридоре и комнате
+- [ ] ИП: Ликвидация
+- - [ ] Найти компанию для ликвидации
+- - [ ] Приехать и сдать документы для ликвидации
+- - [ ] Распечатать налоговую декларацию за 2021, подписать, отправить заказным письмом в ФНС
+- - [ ] Распечатать налоговую декларацию за 2022, подписать, отправить заказным письмом в ФНС
+- [ ] Автомобиль
+- - [ ] Сдать в ремонт замок зажигания (завожу машину с провода)
+- - [ ] Сдать мотористу, чтобы заменил маслосъемные колпачки и почистил двигатель
+- - [ ] Сдать карбюраторщику. Чтобы посмотрел карбюратор, дал инструкцию, куда какие "трубки" подключаются
+- [ ] Программирование: Финансовый стриптиз
+- - [ ] Аутентификация
+- - [ ] Выход
+- - [ ] Добавление транзакции
+- - [ ] Удаление транзакции
+- - [ ] Редактирование транзакции
+- - [ ] Добавление вида транзакции
+- - [ ] Удаление вида транзакции
+- - [ ] Редактирование вида транзакции
+- - [ ] Хэшировать Куки!
+- [ ] Программирование:
+- - [ ] DevOps:
+- - - [ ] Virtual Box перенести базу с Thunderbird Portable -> Thunderbird XFCE4
+- - [ ] GIT
+- - - [ ] Создать новый аккаунт GitHub
+- - [ ] HeadHunter
+- - - [ ] Добавить Neverwinter Diamonds в список портфолио
+- - [ ] PHP:
+- - - [ ] VirtualBox: developer-php-new: Установить сервер
+- - - [ ] VirtualBox: developer-php-new: Перенести файлы
+- - - [ ] Swoole
+- - - - [ ] Разработка Web-сайта на серверной архитектуре
+- - - [ ] Проходить курс ProgramWithGio
+- - - [ ] Neverwinter Diamonds:
+- - - - [ ] Восстановить работу магазина через Docker
+- - - - [ ] Отрефакторить проект, сделать закрытую заглушку
+- - [ ] Rust:
+- - - [ ] Покрыть интеграционными тестами всё приложение
+- - - [ ] Типы данных
+- - - [ ] API V1
+- - - [ ] API V1 Login Check
+- - - [ ] Простейший сайт с SSR на Actix-Web
+- - - - [ ] Создаём пулл подключений к PostgreSQL
+- - - - [ ] Пробрасываем пулл подключений в класс
+- - - - [ ] Делаем чистый SQLx запрос
+- - - - [ ] [AES-256-GCM Encrypt/Decrypt](https://github.com/actix/examples/tree/master/middleware/middleware-encrypted-payloads) подключить как MiddleWare
+- - [ ] GoLang:
+- - [ ] Python:
+- - - [ ] VirtualBox: developer-python: Установить сервер
+- - - [ ] VirtualBox: developer-python: Перенести файлы
+- - - [ ] Функции
+- - [ ] JavaScript:
+- - - [ ] VirtualBox: developer-javascript: Установить сервер
+- - - [ ] VirtualBox: developer-javascript: Перенести файлы
+- - - [ ] Типы данных
+- - - [ ] Event Loop
+- - - [ ] Заменить на TypeScript 
+- - - [ ] Проверка Логина на Занятость
+- - - [ ] Отправка fetch на сервер с логином/паролем
+- - - [ ] Получение ответа, редирект
+- - [ ] TypeScript:
+- - - [ ] Начать изучение
+- [ ] Программирование: Публичный ToDo органайзер
+- - [ ] Переключение тёмной/светлой темы
+- - [ ] Переключение между EN/RU языками
+- - [ ] Страница контактов
+- [ ] Куны
+- - [ ] VirtualBox создать виртуалку PHP5-FPM + MySQL (MariaDB)
+- - [ ] VirtualBox импортировать все файлы
+- - [ ] VirtualBox развернуть файлы
+- - [ ] VirtualBox развернуть базу
+- - [ ] Отправить проект на модерацию в Яндекс
+- [x] Семья: Вика, забрать с работы
+- [x] Семья: Заехать к родителям
+
 ### 2022-12-19
 
 - [x] Стрим: Подрубить
@@ -51,11 +132,15 @@
 - - - [x] VirtualBox: distributive-debian11: Установить
 - - - [x] VirtualBox: developer-rust: Установить
 - - - [x] VirtualBox: developer-rust: Перенести все данные
+- - - [x] VirtualBox: developer-rust-new: Установить
+- - - [x] VirtualBox: developer-rust-new: Перенести все данные
 - - [ ] GIT
 - - - [ ] Создать новый аккаунт GitHub
 - - [ ] HeadHunter
 - - - [ ] Добавить Neverwinter Diamonds в список портфолио
 - - [ ] PHP:
+- - - [ ] VirtualBox: developer-php-new: Установить сервер
+- - - [ ] VirtualBox: developer-php-new: Перенести файлы
 - - - [ ] Swoole
 - - - - [ ] Разработка Web-сайта на серверной архитектуре
 - - - [ ] Проходить курс ProgramWithGio
@@ -63,6 +148,7 @@
 - - - - [ ] Восстановить работу магазина через Docker
 - - - - [ ] Отрефакторить проект, сделать закрытую заглушку
 - - [ ] Rust:
+- - - [x] Trash: Поработать с Книгой по Расту
 - - - [ ] Покрыть интеграционными тестами всё приложение
 - - - [ ] Типы данных
 - - - [ ] API V1
@@ -73,9 +159,17 @@
 - - - - [ ] Делаем чистый SQLx запрос
 - - - - [ ] [AES-256-GCM Encrypt/Decrypt](https://github.com/actix/examples/tree/master/middleware/middleware-encrypted-payloads) подключить как MiddleWare
 - - [ ] GoLang:
+- - - [x] VirtualBox: developer-golang: Установить сервер
+- - - [x] VirtualBox: developer-golang: Перенести файлы
+- - - [x] VirtualBox: developer-golang-new: Установить сервер
+- - - [x] VirtualBox: developer-golang-new: Перенести файлы
 - - [ ] Python:
+- - - [ ] VirtualBox: developer-python: Установить сервер
+- - - [ ] VirtualBox: developer-python: Перенести файлы
 - - - [ ] Функции
 - - [ ] JavaScript:
+- - - [ ] VirtualBox: developer-javascript: Установить сервер
+- - - [ ] VirtualBox: developer-javascript: Перенести файлы
 - - - [ ] Типы данных
 - - - [ ] Event Loop
 - - - [ ] Заменить на TypeScript 
@@ -94,6 +188,8 @@
 - - [ ] VirtualBox развернуть файлы
 - - [ ] VirtualBox развернуть базу
 - - [ ] Отправить проект на модерацию в Яндекс
+- [x] Семья: Вика, забрать с работы
+- [x] Семья: Заехать к родителям
 
 ### 2022-12-18
 
