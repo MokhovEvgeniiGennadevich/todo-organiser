@@ -13,7 +13,7 @@
 
 - [x] Стрим: Подрубить
 - - [ ] Языки: English
-- - [ ] Программирование: Полный цикл PHP, Rust, GoLang, Python, JavaScript
+- - [x] Программирование: Полный цикл PHP, Rust, GoLang, Python, TypeScript
 - [ ] Квартира
 - - [ ] Пропылесосить полы в коридоре и комнате
 - [ ] ИП: Ликвидация
@@ -66,17 +66,15 @@
 - - - [ ] VirtualBox: developer-python: Установить сервер
 - - - [ ] VirtualBox: developer-python: Перенести файлы
 - - - [ ] Функции
-- - [ ] JavaScript:
-- - - [ ] VirtualBox: developer-javascript: Установить сервер
-- - - [ ] VirtualBox: developer-javascript: Перенести файлы
+- - [ ] TypeScript:
+- - - [ ] VirtualBox: developer-typescript: Установить сервер
+- - - [ ] VirtualBox: developer-typescript: Перенести файлы
 - - - [ ] Типы данных
 - - - [ ] Event Loop
 - - - [ ] Заменить на TypeScript 
 - - - [ ] Проверка Логина на Занятость
 - - - [ ] Отправка fetch на сервер с логином/паролем
 - - - [ ] Получение ответа, редирект
-- - [ ] TypeScript:
-- - - [ ] Начать изучение
 - [ ] Программирование: Публичный ToDo органайзер
 - - [ ] Переключение тёмной/светлой темы
 - - [ ] Переключение между EN/RU языками
